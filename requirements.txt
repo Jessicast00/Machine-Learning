@@ -1,3 +1,4 @@
+scikit
 pandas
 numpy
 seaborn
